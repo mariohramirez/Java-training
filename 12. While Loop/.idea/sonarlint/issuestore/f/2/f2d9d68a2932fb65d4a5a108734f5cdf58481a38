@@ -1,0 +1,5 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "name".(×æ«¹8À‘ò‹ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(Øµ¨š8Ì‘ò‹ƒ2
+L	java:S106"+Replace this use of System.out by a logger.(îÖÀãúÿÿÿÿ8Ï‘ò‹ƒ2

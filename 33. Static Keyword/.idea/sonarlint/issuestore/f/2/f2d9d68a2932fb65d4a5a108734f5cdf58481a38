@@ -1,0 +1,16 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Andres" 3 times.(ûÑ÷›úÿÿÿÿ8½Ë¹ƒ2
+X
+java:S1854";Remove this useless assignment to local variable "friend3".(š¤Şº8Ÿ½Ë¹ƒ2
+X
+java:S1854";Remove this useless assignment to local variable "friend2".(À«¼¸8 ½Ë¹ƒ2
+]
+java:S1854";Remove this useless assignment to local variable "friend1".(ûÑ÷›úÿÿÿÿ8 ½Ë¹ƒ2
+N
+java:S1481",Remove this unused "friend1" local variable.(ûÑ÷›úÿÿÿÿ8¥½Ë¹ƒ2
+I
+java:S1481",Remove this unused "friend2" local variable.(À«¼¸8§½Ë¹ƒ2
+I
+java:S1481",Remove this unused "friend3" local variable.(š¤Şº8¨½Ë¹ƒ2
+G	java:S106"+Replace this use of System.out by a logger.( ıôâ8ª½Ë¹ƒ2

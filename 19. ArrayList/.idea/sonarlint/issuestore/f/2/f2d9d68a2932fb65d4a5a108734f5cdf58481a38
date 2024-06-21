@@ -1,0 +1,12 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Àˆ©8ÄÅ®ƒ2
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(øÒæ8ÄÅ®ƒ2
+X
+java:S1854-";Remove this useless assignment to local variable "enteros".(øÒæ8ÔÅ®ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(û®¢‡8ÙÅ®ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(û®¢‡8©ğ°ƒ2
+G	java:S106&"+Replace this use of System.out by a logger.(û®¢‡8¡¢±ƒ2
+I
+java:S1481-",Remove this unused "enteros" local variable.(øÒæ8ÜÅ®ƒ2
