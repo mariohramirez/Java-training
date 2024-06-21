@@ -1,0 +1,23 @@
+
+L	java:S106
+"+Replace this use of System.out by a logger.(§òããüÿÿÿÿ8ª½ãàƒ2
+E	java:S106"+Replace this use of System.out by a logger.(Ğú&8şûãàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¯±äàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(Ú·º¡ùÿÿÿÿ8Ó¼åàƒ2
+G	java:S106"+Replace this use of System.out by a logger.(ëóŞ¡8üÒåàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(…½áÂşÿÿÿÿ8ıÒåàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8õÆæàƒ2
+G	java:S106"+Replace this use of System.out by a logger.(ÊÅ·€8·Ğçàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(ÿ«ôıÿÿÿÿ8·Ğçàƒ2
+G	java:S106"+Replace this use of System.out by a logger.(‚ÿİÉ8¸Ğçàƒ2
+X	java:S125"<This block of commented-out lines of code should be removed.(†ãßÍ8Ğ›ìàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(§òããüÿÿÿÿ8‘‹êàƒ2
+E	java:S106"+Replace this use of System.out by a logger.(Ğú&8’‹êàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’‹êàƒ2
+L	java:S106"+Replace this use of System.out by a logger.(Ú·º¡ùÿÿÿÿ8“‹êàƒ2
+G	java:S106"+Replace this use of System.out by a logger.(ëóŞ¡8“‹êàƒ2
+L	java:S106 "+Replace this use of System.out by a logger.(…½áÂşÿÿÿÿ8”‹êàƒ2
+L	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•‹êàƒ2
+G	java:S106""+Replace this use of System.out by a logger.(ÊÅ·€8–‹êàƒ2
+L	java:S106#"+Replace this use of System.out by a logger.(ÿ«ôıÿÿÿÿ8—‹êàƒ2
+G	java:S106$"+Replace this use of System.out by a logger.(‚ÿİÉ8˜‹êàƒ2
